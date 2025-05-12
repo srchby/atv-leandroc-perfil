@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     padding: 16,
   },
   card: {
-    backgroundColor: "#1f1f1f",
+    backgroundColor: "#e8e3c3",
     borderRadius: 20,
     padding: 24,
     alignItems: "center",
@@ -66,13 +66,13 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: "bold",
     textAlign: "center",
-    color: "#ffffff",
+    color: "#2a2b33",
     marginBottom: 8,
   },
   phrase: {
     fontSize: 16,
     fontStyle: "italic",
-    color: "#cccccc",
+    color: "#2a2b33",
     textAlign: "center",
   },
   image: {
